@@ -1,5 +1,5 @@
 {
-  "name": "neoxr-api",
+  "name": "justferianss-api",
   "version": "1.0.0",
   "description": "Base Rest Api",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neoxr/rest-api-web.git"
+    "url": "git+https://github.com/bkzutr90/api-jf.git"
   },
   "keywords": [
     "rest-api",
     "web-api"
   ],
-  "author": "Wildan Izzudin",
+  "author": "Just Ferianss",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/neoxr/rest-api-web/issues"
